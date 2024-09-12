@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sushma</h1>
-<h3 align="center">A passionate Software Engineer with over 4 years of experience specializing in Java, Spring Boot, and ReactJS. Currently pursuing my Master’s in Computer Science at UNC Charlotte.</h3>
+<h3 align="center">A passionate software engineer with over 4 years of experience specializing in Java, SpringBoot, and ReactJS. Currently pursuing my Master’s in Computer Science at UNC Charlotte.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmakolli1510&label=Profile%20views&color=0e75b6&style=flat" alt="sushmakolli1510" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmakolli1510" alt="sushmakolli1510" /></a> </p>
 
 - 🔭 I’m currently working on [MyNetflix](https://github.com/sushmakolli1510/MyNetflix)
 
