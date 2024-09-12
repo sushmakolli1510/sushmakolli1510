@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./javascript.gif)
 <h1 align="center">Hi 👋, I'm Sushma</h1>
 <h3 align="center">A passionate software engineer with over 4 years of experience specializing in Java, SpringBoot, and ReactJS. Currently pursuing my Master’s in Computer Science at UNC Charlotte.</h3>
 
